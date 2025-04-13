@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Naufal Kusumo</h1>
-<h4 align="center">Computer Science student passionate about game development. Exploring the art of code to build immersive digital experiences. Always learning, coding, and leveling up my skills.</h4>
+<h4 align="center">Computer Science student who is passionate about game development.</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalkusumo&show_icons=true&theme=dark&locale=en&layout=compact" alt="naufalkusumo" /></p>
 
