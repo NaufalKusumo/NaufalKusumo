@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=48&pause=1000&color=F7F7F7&background=15171A&center=true&vCenter=true&width=800&height=80&lines=For+the+better+world+!!)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalkusumo&show_icons=true&theme=dark&locale=en&layout=compact" alt="naufalkusumo" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalkusumo&show_icons=true&theme=dark&locale=en&layout=compact" alt="naufalkusumo" /></p> -->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=naufalkusumo)](https://git.io/streak-stats) -->
 
